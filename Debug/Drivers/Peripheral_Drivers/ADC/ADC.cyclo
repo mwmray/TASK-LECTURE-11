@@ -1,0 +1,3 @@
+ADC.c:3:6:ADC_Configure_SampleTime	3
+ADC.c:11:10:Get_ADC_Data	1
+ADC.c:16:9:Is_CTS_High	1

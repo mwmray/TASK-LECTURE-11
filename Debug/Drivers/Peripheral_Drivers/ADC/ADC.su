@@ -1,0 +1,3 @@
+../Drivers/Peripheral_Drivers/ADC/ADC.c:3:6:ADC_Configure_SampleTime	24	static
+../Drivers/Peripheral_Drivers/ADC/ADC.c:11:10:Get_ADC_Data	16	static
+../Drivers/Peripheral_Drivers/ADC/ADC.c:16:9:Is_CTS_High	16	static
